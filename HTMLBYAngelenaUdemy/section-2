@@ -12,4 +12,10 @@ Tag vs Element
 <h5> heading 5 </h5>
 <h6> heading 6 </h6> - smallest
 
+<p> </p> - this paragraph tag
+
+Self closing tag  / void element
+<hr/>
+<br/>
+
 
