@@ -1,6 +1,15 @@
-List of elements
+#List of elements
 
 1.Ordered list 
 <ol> </ol>
 2.Unordered list 
 <ul> </ul>
+
+#The Anchor element
+<a> This is link </a>
+<a herf = "https://www.google.com/"> This is element </a>
+
+
+#Image Element 
+<img src ="url"/>
+Self closing tag , void element 
